@@ -1,0 +1,5 @@
+{
+    "require": {
+        "get-stream/stream-chat": "^1.1"
+    }
+}
